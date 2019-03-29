@@ -77,7 +77,6 @@
 		A98FB5E8153B2C5F00D9E5E7 /* Tchaikovsky__Swan_Lake.mid in Resources */ = {isa = PBXBuildFile; fileRef = A98FB5A5153B2C5F00D9E5E7 /* Tchaikovsky__Swan_Lake.mid */; };
 		A98FB5E9153B2C5F00D9E5E7 /* Verdi__La_Donna_e_Mobile.mid in Resources */ = {isa = PBXBuildFile; fileRef = A98FB5A6153B2C5F00D9E5E7 /* Verdi__La_Donna_e_Mobile.mid */; };
 		A98FB5EB153B2C7F00D9E5E7 /* NotePair.icns in Resources */ = {isa = PBXBuildFile; fileRef = A98FB5EA153B2C7F00D9E5E7 /* NotePair.icns */; };
-		A98FB605153B30FA00D9E5E7 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A98FB604153B30FA00D9E5E7 /* SenTestingKit.framework */; };
 		A9C90225177777B400B7249F /* AccidSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901D7177777B400B7249F /* AccidSymbol.m */; };
 		A9C90226177777B400B7249F /* Array.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901D9177777B400B7249F /* Array.m */; };
 		A9C90227177777B400B7249F /* BarSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901DB177777B400B7249F /* BarSymbol.m */; };
@@ -115,43 +114,6 @@
 		A9C90249177777B400B7249F /* TimeSignature.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9021F177777B400B7249F /* TimeSignature.m */; };
 		A9C9024A177777B400B7249F /* TimeSigSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90221177777B400B7249F /* TimeSigSymbol.m */; };
 		A9C9024C177777B400B7249F /* WhiteNote.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90224177777B400B7249F /* WhiteNote.m */; };
-		A9C9024D177777B400B7249F /* AccidSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901D7177777B400B7249F /* AccidSymbol.m */; };
-		A9C9024E177777B400B7249F /* Array.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901D9177777B400B7249F /* Array.m */; };
-		A9C9024F177777B400B7249F /* BarSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901DB177777B400B7249F /* BarSymbol.m */; };
-		A9C90250177777B400B7249F /* BlankSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901DD177777B400B7249F /* BlankSymbol.m */; };
-		A9C90251177777B400B7249F /* ChordSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901DF177777B400B7249F /* ChordSymbol.m */; };
-		A9C90252177777B400B7249F /* ClefMeasures.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901E1177777B400B7249F /* ClefMeasures.m */; };
-		A9C90253177777B400B7249F /* ClefSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901E3177777B400B7249F /* ClefSymbol.m */; };
-		A9C90254177777B400B7249F /* FlippedView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901E5177777B400B7249F /* FlippedView.m */; };
-		A9C90255177777B400B7249F /* InstrumentDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901E7177777B400B7249F /* InstrumentDialog.m */; };
-		A9C90256177777B400B7249F /* IntArray.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901E9177777B400B7249F /* IntArray.m */; };
-		A9C90257177777B400B7249F /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901EB177777B400B7249F /* JSONKit.m */; };
-		A9C90258177777B400B7249F /* KeySignature.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901ED177777B400B7249F /* KeySignature.m */; };
-		A9C90259177777B400B7249F /* LyricSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901EF177777B400B7249F /* LyricSymbol.m */; };
-		A9C9025B177777B400B7249F /* MidiEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901F2177777B400B7249F /* MidiEvent.m */; };
-		A9C9025C177777B400B7249F /* MidiFile.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901F4177777B400B7249F /* MidiFile.m */; };
-		A9C9025D177777B400B7249F /* MidiFileException.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901F6177777B400B7249F /* MidiFileException.m */; };
-		A9C9025E177777B400B7249F /* MidiFileReader.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901F8177777B400B7249F /* MidiFileReader.m */; };
-		A9C9025F177777B400B7249F /* MidiNote.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901FA177777B400B7249F /* MidiNote.m */; };
-		A9C90260177777B400B7249F /* MidiOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901FC177777B400B7249F /* MidiOptions.m */; };
-		A9C90261177777B400B7249F /* MidiPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C901FE177777B400B7249F /* MidiPlayer.m */; };
-		A9C90262177777B400B7249F /* MidiSheetMusic.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90200177777B400B7249F /* MidiSheetMusic.m */; };
-		A9C90263177777B400B7249F /* MidiTrack.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90202177777B400B7249F /* MidiTrack.m */; };
-		A9C90264177777B400B7249F /* NoteColorDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90205177777B400B7249F /* NoteColorDialog.m */; };
-		A9C90266177777B400B7249F /* NSDictionary+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90209177777B400B7249F /* NSDictionary+Extensions.m */; };
-		A9C90267177777B400B7249F /* NSMutableDictionary+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9020B177777B400B7249F /* NSMutableDictionary+Extensions.m */; };
-		A9C90268177777B400B7249F /* Piano.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9020D177777B400B7249F /* Piano.m */; };
-		A9C90269177777B400B7249F /* PlayMeasuresDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9020F177777B400B7249F /* PlayMeasuresDialog.m */; };
-		A9C9026A177777B400B7249F /* RestSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90211177777B400B7249F /* RestSymbol.m */; };
-		A9C9026B177777B400B7249F /* SampleSongDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90213177777B400B7249F /* SampleSongDialog.m */; };
-		A9C9026C177777B400B7249F /* SheetMusic.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90215177777B400B7249F /* SheetMusic.m */; };
-		A9C9026D177777B400B7249F /* SheetMusicWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90217177777B400B7249F /* SheetMusicWindow.m */; };
-		A9C9026E177777B400B7249F /* Staff.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90219177777B400B7249F /* Staff.m */; };
-		A9C9026F177777B400B7249F /* Stem.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9021B177777B400B7249F /* Stem.m */; };
-		A9C90270177777B400B7249F /* SymbolWidths.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9021D177777B400B7249F /* SymbolWidths.m */; };
-		A9C90271177777B400B7249F /* TimeSignature.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C9021F177777B400B7249F /* TimeSignature.m */; };
-		A9C90272177777B400B7249F /* TimeSigSymbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90221177777B400B7249F /* TimeSigSymbol.m */; };
-		A9C90274177777B400B7249F /* WhiteNote.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C90224177777B400B7249F /* WhiteNote.m */; };
 		A9C902E11777780F00B7249F /* bass.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902C71777780F00B7249F /* bass.png */; };
 		A9C902E21777780F00B7249F /* blue_background.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902C81777780F00B7249F /* blue_background.png */; };
 		A9C902E31777780F00B7249F /* eight.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902C91777780F00B7249F /* eight.png */; };
@@ -176,38 +138,9 @@
 		A9C902F81777780F00B7249F /* two.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DE1777780F00B7249F /* two.png */; };
 		A9C902F91777780F00B7249F /* volume.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DF1777780F00B7249F /* volume.png */; };
 		A9C902FA1777780F00B7249F /* white_background.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902E01777780F00B7249F /* white_background.png */; };
-		A9C902FB1777780F00B7249F /* bass.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902C71777780F00B7249F /* bass.png */; };
-		A9C902FC1777780F00B7249F /* blue_background.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902C81777780F00B7249F /* blue_background.png */; };
-		A9C902FD1777780F00B7249F /* eight.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902C91777780F00B7249F /* eight.png */; };
-		A9C902FE1777780F00B7249F /* fastforward.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902CA1777780F00B7249F /* fastforward.png */; };
-		A9C902FF1777780F00B7249F /* four.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902CB1777780F00B7249F /* four.png */; };
-		A9C903001777780F00B7249F /* gray_background.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902CC1777780F00B7249F /* gray_background.png */; };
-		A9C903011777780F00B7249F /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902CD1777780F00B7249F /* logo.png */; };
-		A9C903021777780F00B7249F /* midi_header.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902CE1777780F00B7249F /* midi_header.png */; };
-		A9C903031777780F00B7249F /* midi_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902CF1777780F00B7249F /* midi_logo.png */; };
-		A9C903041777780F00B7249F /* midi_player.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D01777780F00B7249F /* midi_player.png */; };
-		A9C903051777780F00B7249F /* nine.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D11777780F00B7249F /* nine.png */; };
-		A9C903081777780F00B7249F /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D41777780F00B7249F /* pause.png */; };
-		A9C903091777780F00B7249F /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D51777780F00B7249F /* play.png */; };
-		A9C9030A1777780F00B7249F /* rewind.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D61777780F00B7249F /* rewind.png */; };
-		A9C9030B1777780F00B7249F /* save_as.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D71777780F00B7249F /* save_as.png */; };
-		A9C9030C1777780F00B7249F /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D81777780F00B7249F /* screenshot.png */; };
-		A9C9030D1777780F00B7249F /* six.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902D91777780F00B7249F /* six.png */; };
-		A9C9030E1777780F00B7249F /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DA1777780F00B7249F /* stop.png */; };
-		A9C9030F1777780F00B7249F /* three.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DB1777780F00B7249F /* three.png */; };
-		A9C903101777780F00B7249F /* treble.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DC1777780F00B7249F /* treble.png */; };
-		A9C903111777780F00B7249F /* twelve.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DD1777780F00B7249F /* twelve.png */; };
-		A9C903121777780F00B7249F /* two.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DE1777780F00B7249F /* two.png */; };
-		A9C903131777780F00B7249F /* volume.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902DF1777780F00B7249F /* volume.png */; };
-		A9C903141777780F00B7249F /* white_background.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C902E01777780F00B7249F /* white_background.png */; };
-		A9C903171777784400B7249F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A9C903151777784400B7249F /* Info.plist */; };
 		A9C9031D1777785400B7249F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A9C903191777785400B7249F /* InfoPlist.strings */; };
 		A9C9031E1777785400B7249F /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = A9C9031B1777785400B7249F /* MainMenu.xib */; };
-		A9C9031F1777785400B7249F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A9C903191777785400B7249F /* InfoPlist.strings */; };
-		A9C903201777785400B7249F /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = A9C9031B1777785400B7249F /* MainMenu.xib */; };
 		A9C9032F1777788D00B7249F /* help.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A9C9032E1777788D00B7249F /* help.rtf */; };
-		A9C903301777788D00B7249F /* help.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A9C9032E1777788D00B7249F /* help.rtf */; };
-		A9C903451777799300B7249F /* UnitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C903441777799300B7249F /* UnitTest.m */; };
 		A9D19C4E178A29B40023E1CC /* SavedMidiOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = A9D19C4D178A29B40023E1CC /* SavedMidiOptions.m */; };
 		A9F4CA5817777A5B00340042 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F4CA5717777A5B00340042 /* main.m */; };
 		A9F4CA7D17778C3600340042 /* midisheetmusic.settings.json in Resources */ = {isa = PBXBuildFile; fileRef = A9F4CA7C17778C3600340042 /* midisheetmusic.settings.json */; };
@@ -217,11 +150,13 @@
 /* Begin PBXFileReference section */
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		14A79D02224DF17D00D9542F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = ../Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		14A79D03224DF18000D9542F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = ../en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		14A79D04224DF18000D9542F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = ../en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* MidiSheetMusic_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MidiSheetMusic_Prefix.pch; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* MidiSheetMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MidiSheetMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A974316B178A37DD00A266D8 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = Localizable.strings; sourceTree = "<group>"; };
 		A98FB564153B2C5F00D9E5E7 /* Bach__Invention_No._13.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Bach__Invention_No._13.mid; sourceTree = "<group>"; };
 		A98FB565153B2C5F00D9E5E7 /* Bach__Minuet_in_G_major.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Bach__Minuet_in_G_major.mid; sourceTree = "<group>"; };
 		A98FB566153B2C5F00D9E5E7 /* Bach__Musette_in_D_major.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Bach__Musette_in_D_major.mid; sourceTree = "<group>"; };
@@ -290,7 +225,6 @@
 		A98FB5A5153B2C5F00D9E5E7 /* Tchaikovsky__Swan_Lake.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Tchaikovsky__Swan_Lake.mid; sourceTree = "<group>"; };
 		A98FB5A6153B2C5F00D9E5E7 /* Verdi__La_Donna_e_Mobile.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Verdi__La_Donna_e_Mobile.mid; sourceTree = "<group>"; };
 		A98FB5EA153B2C7F00D9E5E7 /* NotePair.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = NotePair.icns; sourceTree = "<group>"; };
-		A98FB5FF153B30AC00D9E5E7 /* UnitTest.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTest.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A98FB600153B30AC00D9E5E7 /* UnitTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UnitTest-Info.plist"; sourceTree = "<group>"; };
 		A98FB604153B30FA00D9E5E7 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		A9C901D6177777B400B7249F /* AccidSymbol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccidSymbol.h; sourceTree = "<group>"; };
@@ -393,8 +327,6 @@
 		A9C902DF1777780F00B7249F /* volume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = volume.png; sourceTree = "<group>"; };
 		A9C902E01777780F00B7249F /* white_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white_background.png; sourceTree = "<group>"; };
 		A9C903151777784400B7249F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../Info.plist; sourceTree = "<group>"; };
-		A9C9031A1777785400B7249F /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
-		A9C9031C1777785400B7249F /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = MainMenu.xib; sourceTree = "<group>"; };
 		A9C9032E1777788D00B7249F /* help.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = help.rtf; sourceTree = "<group>"; };
 		A9C903441777799300B7249F /* UnitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UnitTest.m; sourceTree = "<group>"; };
 		A9D19C4C178A29B30023E1CC /* SavedMidiOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SavedMidiOptions.h; sourceTree = "<group>"; };
@@ -409,14 +341,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A98FB5FC153B30AC00D9E5E7 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A98FB605153B30FA00D9E5E7 /* SenTestingKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -445,7 +369,6 @@
 			isa = PBXGroup;
 			children = (
 				8D1107320486CEB800E47090 /* MidiSheetMusic.app */,
-				A98FB5FF153B30AC00D9E5E7 /* UnitTest.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -717,24 +640,6 @@
 			productReference = 8D1107320486CEB800E47090 /* MidiSheetMusic.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A98FB5FE153B30AC00D9E5E7 /* UnitTest */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = A98FB603153B30AD00D9E5E7 /* Build configuration list for PBXNativeTarget "UnitTest" */;
-			buildPhases = (
-				A98FB5FA153B30AC00D9E5E7 /* Resources */,
-				A98FB5FB153B30AC00D9E5E7 /* Sources */,
-				A98FB5FC153B30AC00D9E5E7 /* Frameworks */,
-				A98FB5FD153B30AC00D9E5E7 /* ShellScript */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = UnitTest;
-			productName = UnitTest;
-			productReference = A98FB5FF153B30AC00D9E5E7 /* UnitTest.octest */;
-			productType = "com.apple.product-type.bundle.ocunit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -742,13 +647,14 @@
 			isa = PBXProject;
 			attributes = {
 				LastTestingUpgradeCheck = 0720;
-				LastUpgradeCheck = 0710;
+				LastUpgradeCheck = 1020;
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MidiSheetMusic" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 1;
 			knownRegions = (
+				Base,
 				en,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* MidiSheetMusic */;
@@ -756,7 +662,6 @@
 			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* MidiSheetMusic */,
-				A98FB5FE153B30AC00D9E5E7 /* UnitTest */,
 			);
 		};
 /* End PBXProject section */
@@ -867,58 +772,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A98FB5FA153B30AC00D9E5E7 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A9C902FB1777780F00B7249F /* bass.png in Resources */,
-				A9C902FC1777780F00B7249F /* blue_background.png in Resources */,
-				A9C902FD1777780F00B7249F /* eight.png in Resources */,
-				A9C902FE1777780F00B7249F /* fastforward.png in Resources */,
-				A9C902FF1777780F00B7249F /* four.png in Resources */,
-				A9C903001777780F00B7249F /* gray_background.png in Resources */,
-				A9C903011777780F00B7249F /* logo.png in Resources */,
-				A9C903021777780F00B7249F /* midi_header.png in Resources */,
-				A9C903031777780F00B7249F /* midi_logo.png in Resources */,
-				A9C903041777780F00B7249F /* midi_player.png in Resources */,
-				A9C903051777780F00B7249F /* nine.png in Resources */,
-				A9C903081777780F00B7249F /* pause.png in Resources */,
-				A9C903091777780F00B7249F /* play.png in Resources */,
-				A9C9030A1777780F00B7249F /* rewind.png in Resources */,
-				A9C9030B1777780F00B7249F /* save_as.png in Resources */,
-				A9C9030C1777780F00B7249F /* screenshot.png in Resources */,
-				A9C9030D1777780F00B7249F /* six.png in Resources */,
-				A9C9030E1777780F00B7249F /* stop.png in Resources */,
-				A9C9030F1777780F00B7249F /* three.png in Resources */,
-				A9C903101777780F00B7249F /* treble.png in Resources */,
-				A9C903111777780F00B7249F /* twelve.png in Resources */,
-				A9C903121777780F00B7249F /* two.png in Resources */,
-				A9C903131777780F00B7249F /* volume.png in Resources */,
-				A9C903141777780F00B7249F /* white_background.png in Resources */,
-				A9C903171777784400B7249F /* Info.plist in Resources */,
-				A9C9031F1777785400B7249F /* InfoPlist.strings in Resources */,
-				A9C903201777785400B7249F /* MainMenu.xib in Resources */,
-				A9C903301777788D00B7249F /* help.rtf in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		A98FB5FD153B30AC00D9E5E7 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8D11072C0486CEB800E47090 /* Sources */ = {
@@ -967,58 +821,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A98FB5FB153B30AC00D9E5E7 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A9C9024D177777B400B7249F /* AccidSymbol.m in Sources */,
-				A9C9024E177777B400B7249F /* Array.m in Sources */,
-				A9C9024F177777B400B7249F /* BarSymbol.m in Sources */,
-				A9C90250177777B400B7249F /* BlankSymbol.m in Sources */,
-				A9C90251177777B400B7249F /* ChordSymbol.m in Sources */,
-				A9C90252177777B400B7249F /* ClefMeasures.m in Sources */,
-				A9C90253177777B400B7249F /* ClefSymbol.m in Sources */,
-				A9C90254177777B400B7249F /* FlippedView.m in Sources */,
-				A9C90255177777B400B7249F /* InstrumentDialog.m in Sources */,
-				A9C90256177777B400B7249F /* IntArray.m in Sources */,
-				A9C90257177777B400B7249F /* JSONKit.m in Sources */,
-				A9C90258177777B400B7249F /* KeySignature.m in Sources */,
-				A9C90259177777B400B7249F /* LyricSymbol.m in Sources */,
-				A9C9025B177777B400B7249F /* MidiEvent.m in Sources */,
-				A9C9025C177777B400B7249F /* MidiFile.m in Sources */,
-				A9C9025D177777B400B7249F /* MidiFileException.m in Sources */,
-				A9C9025E177777B400B7249F /* MidiFileReader.m in Sources */,
-				A9C9025F177777B400B7249F /* MidiNote.m in Sources */,
-				A9C90260177777B400B7249F /* MidiOptions.m in Sources */,
-				A9C90261177777B400B7249F /* MidiPlayer.m in Sources */,
-				A9C90262177777B400B7249F /* MidiSheetMusic.m in Sources */,
-				A9C90263177777B400B7249F /* MidiTrack.m in Sources */,
-				A9C90264177777B400B7249F /* NoteColorDialog.m in Sources */,
-				A9C90266177777B400B7249F /* NSDictionary+Extensions.m in Sources */,
-				A9C90267177777B400B7249F /* NSMutableDictionary+Extensions.m in Sources */,
-				A9C90268177777B400B7249F /* Piano.m in Sources */,
-				A9C90269177777B400B7249F /* PlayMeasuresDialog.m in Sources */,
-				A9C9026A177777B400B7249F /* RestSymbol.m in Sources */,
-				A9C9026B177777B400B7249F /* SampleSongDialog.m in Sources */,
-				A9C9026C177777B400B7249F /* SheetMusic.m in Sources */,
-				A9C9026D177777B400B7249F /* SheetMusicWindow.m in Sources */,
-				A9C9026E177777B400B7249F /* Staff.m in Sources */,
-				A9C9026F177777B400B7249F /* Stem.m in Sources */,
-				A9C90270177777B400B7249F /* SymbolWidths.m in Sources */,
-				A9C90271177777B400B7249F /* TimeSignature.m in Sources */,
-				A9C90272177777B400B7249F /* TimeSigSymbol.m in Sources */,
-				A9C90274177777B400B7249F /* WhiteNote.m in Sources */,
-				A9C903451777799300B7249F /* UnitTest.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
 		A974316A178A37DD00A266D8 /* Localizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A974316B178A37DD00A266D8 /* English */,
+				14A79D03224DF18000D9542F /* en */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -1026,7 +835,7 @@
 		A9C903191777785400B7249F /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A9C9031A1777785400B7249F /* English */,
+				14A79D04224DF18000D9542F /* en */,
 			);
 			name = InfoPlist.strings;
 			path = ../English.lproj;
@@ -1035,7 +844,7 @@
 		A9C9031B1777785400B7249F /* MainMenu.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A9C9031C1777785400B7249F /* English */,
+				14A79D02224DF17D00D9542F /* Base */,
 			);
 			name = MainMenu.xib;
 			path = ../English.lproj;
@@ -1044,78 +853,21 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A98FB601153B30AD00D9E5E7 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = NO;
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_ENABLE_FIX_AND_CONTINUE = NO;
-				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
-				GCC_MODEL_TUNING = G5;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Cocoa.framework/Headers/Cocoa.h";
-				INFOPLIST_FILE = "UnitTest-Info.plist";
-				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Bundles";
-				OTHER_LDFLAGS = (
-					"-framework",
-					Cocoa,
-					"-framework",
-					SenTestingKit,
-				);
-				PREBINDING = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.${PRODUCT_NAME:identifier}";
-				PRODUCT_NAME = UnitTest;
-				WRAPPER_EXTENSION = octest;
-			};
-			name = Debug;
-		};
-		A98FB602153B30AD00D9E5E7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = YES;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
-				GCC_ENABLE_FIX_AND_CONTINUE = NO;
-				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
-				GCC_MODEL_TUNING = G5;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Cocoa.framework/Headers/Cocoa.h";
-				INFOPLIST_FILE = "UnitTest-Info.plist";
-				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Bundles";
-				OTHER_LDFLAGS = (
-					"-framework",
-					Cocoa,
-					"-framework",
-					SenTestingKit,
-				);
-				PREBINDING = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.${PRODUCT_NAME:identifier}";
-				PRODUCT_NAME = UnitTest;
-				WRAPPER_EXTENSION = octest;
-				ZERO_LINK = NO;
-			};
-			name = Release;
-		};
 		C01FCF4B08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = MidiSheetMusic_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				PRODUCT_BUNDLE_IDENTIFIER = "${PRODUCT_NAME:identifier}";
 				PRODUCT_NAME = MidiSheetMusic;
 				SDKROOT = macosx;
@@ -1126,6 +878,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_MODEL_TUNING = G5;
@@ -1133,6 +886,7 @@
 				GCC_PREFIX_HEADER = MidiSheetMusic_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				PRODUCT_BUNDLE_IDENTIFIER = "${PRODUCT_NAME:identifier}";
 				PRODUCT_NAME = MidiSheetMusic;
 				SDKROOT = macosx;
@@ -1142,13 +896,35 @@
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PREBINDING = NO;
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -1156,10 +932,32 @@
 		C01FCF5008A954540054247B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				PREBINDING = NO;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -1167,15 +965,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A98FB603153B30AD00D9E5E7 /* Build configuration list for PBXNativeTarget "UnitTest" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A98FB601153B30AD00D9E5E7 /* Debug */,
-				A98FB602153B30AD00D9E5E7 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "MidiSheetMusic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
